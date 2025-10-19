@@ -1,6 +1,6 @@
 # RestoreAllWindows
 
-<img width="813" height="451" alt="image" src="https://github.com/user-attachments/assets/86970ab3-fb7d-464a-beb3-ddfb117c8012" />
+<img width="811" height="449" alt="image" src="https://github.com/user-attachments/assets/1cb68417-d2e4-485c-be30-afb3be729063" />
 
 ## RestoreAllWindows is a Window Manager, allowing bulk restore/minimize functionality removed from Windows 11!
 
