@@ -12,7 +12,7 @@ However, sadly that is no longer possible with Windows 11.
 
 Using RestoreAllWindows, you are once again able to bulk minimize or restore all Windows for a specific program.
 
-Clicking or right clicking the RestoreAllWindows system tray icon ![]<img width="68" height="65" alt="image" src="https://github.com/user-attachments/assets/0b70e845-8c6e-4ce6-8a2e-defda47e8a7d" />
+Clicking or right clicking the RestoreAllWindows system tray icon <img width="68" height="65" alt="image" src="https://github.com/user-attachments/assets/0b70e845-8c6e-4ce6-8a2e-defda47e8a7d" />
 
 allows opening up the main Window Manager graphical interface or Restoring/Minimizing all Windows,.
 
